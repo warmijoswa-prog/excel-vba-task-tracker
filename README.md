@@ -11,12 +11,12 @@ Excel, VBA (UserForms), structured sorting and filtering
 - Closes tasks and re-sorts open items first
 
 ## Screenshots
-![Main sheet](images/main-sheet.png)
-![New task form](images/new-task-form.png)
+![Main sheet](images.zip/main-sheet.png)
+![New task form](images.zip/new-task-form.png)
 
 ## Files
 - `DATE PICKER.xlsm`: the workbook
-- `vba/`: exported VBA modules and forms
+- `vba.zip/`: exported VBA modules and forms
 
 ## How to try it
 Download the workbook, enable macros and use the buttons on the main sheet.
