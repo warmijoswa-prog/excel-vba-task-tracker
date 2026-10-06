@@ -11,8 +11,8 @@ Excel, VBA (UserForms), structured sorting and filtering
 - Closes tasks and re-sorts open items first
 
 ## Screenshots
-![Main sheet](images.zip/main-sheet.png)
-![New task form](images.zip/new-task-form.png)
+- `images.zip/main-sheet.png`
+- `images.zip/new-task-form.png`
 
 ## Files
 - `DATE PICKER.xlsm`: the workbook
